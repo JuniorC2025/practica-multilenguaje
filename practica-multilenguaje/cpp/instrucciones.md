@@ -18,8 +18,9 @@ Verifica si una cadena es palindromo, ignorando mayusculas y espacios.
 ## Compilacion y ejecucion
 Tomar en cuenta que previamente se tiene que tener instalado el g++ con el mingw que son las herramientas principales para poder ejecutar y compilar cpp en el editor de codigo VS. De igual manera haber agregado la ruta /bin al path de los editores de variables de entorno
 1. Compilar:
-```bash
+bash
 g++ palindromo.cpp -o palindromo
 (esta linea de código compila y genera el archivo el archivo ejecutable -o palindromo es para asignarle el nombre)
+
 2. Ejecución
 ./palindromo.exe 
