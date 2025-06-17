@@ -20,7 +20,8 @@ Tomar en cuenta que previamente se tiene que tener instalado el g++ con el mingw
 1. Compilar:
 bash
 g++ palindromo.cpp -o palindromo
+
 (esta linea de código compila y genera el archivo el archivo ejecutable -o palindromo es para asignarle el nombre)
 
-2. Ejecución
+3. Ejecución
 ./palindromo.exe 
