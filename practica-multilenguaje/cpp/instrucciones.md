@@ -23,5 +23,6 @@ g++ palindromo.cpp -o palindromo
 
 (esta linea de código compila y genera el archivo el archivo ejecutable -o palindromo es para asignarle el nombre)
 
-3. Ejecución
+2. Ejecución
+
 ./palindromo.exe 
